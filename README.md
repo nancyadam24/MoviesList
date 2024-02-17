@@ -1,5 +1,5 @@
 # MoviesList
-You can create a list of movies you want to see with the help of Google Searcher API.
+You can create a list of movies you want to see with the help of Google Search API.
 
 ## Screenshots 
 
