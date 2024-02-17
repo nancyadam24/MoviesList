@@ -3,6 +3,7 @@ You can create a list of movies you want to see with the help of Google Search A
 
 ## Installation
 Install by importing this project over to Visual Studio Code and XAMPP (this file must be in htdocs of xampp).
+The file create_table must be added to phpMyAdmin.
 
 ## Screenshots 
 |  | |
