@@ -1,6 +1,9 @@
 # MoviesList
 You can create a list of movies you want to see with the help of Google Search API.
 
+## Installation
+Install by importing this project over to Visual Studio Code and XAMPP (this file must be in htdocs of xampp).
+
 ## Screenshots 
 |  | |
 |------------|------------|
