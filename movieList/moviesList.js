@@ -82,8 +82,8 @@ function submitForm() {
     });
     
     function searchAndDisplayImage(title, description, cardElement) {
-        var apiKey = 'AIzaSyB4smVusg7hpv8VFkmiUukCW4SGK6emysE';
-        var customSearchEngineId = 'a47e78fc0f59145b0';
+        var apiKey = 'Mykey';
+        var customSearchEngineId = 'MyId';
         var query = title + ' ' + description + ' movie poster';
         var apiUrl = 'https://www.googleapis.com/customsearch/v1?key=' + apiKey + '&cx=' + customSearchEngineId + '&q=' + encodeURIComponent(query) + '&searchType=image';
 
